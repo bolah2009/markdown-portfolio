@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_PROGRAMMING_ - __HTML, CSS, JavaScript, Vue, Webpack, Sass__
+*SOFTWARE* - **Visual Studio Code, Android Studio, GitHub, SharePoint, Mathematica, GitLab, Firebase**
